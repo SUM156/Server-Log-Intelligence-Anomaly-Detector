@@ -1,3 +1,8 @@
+<img width="908" height="561" alt="Screenshot 2026-07-04 220057" src="https://github.com/user-attachments/assets/8487249b-f870-4922-8bde-d4d2cfc58774" />
+<img width="840" height="344" alt="Screenshot 2026-07-04 220131" src="https://github.com/user-attachments/assets/85cfd591-e613-42df-b366-8fea280c65c7" />
+<img width="1218" height="672" alt="Screenshot 2026-07-04 220012" src="https://github.com/user-attachments/assets/c9f96a3f-dfdf-4e7d-843f-0e7ab7eca365" />
+
+
 # 🛡️ LogSentinel — Server Log Intelligence & Anomaly Detector
 
 > Parses Apache/Nginx access logs, summarizes traffic, and flags anomalous request patterns (traffic spikes, single-IP flooding) using simple, explainable statistics — the exact category of first-line tooling real SRE/DevOps teams run daily.
