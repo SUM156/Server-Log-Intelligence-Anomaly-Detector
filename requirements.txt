@@ -1,0 +1,6 @@
+# LogSentinel runtime dependencies: NONE. Parsing (re), storage (gzip,
+# json), and statistics (statistics module) are all Python standard
+# library -- zero third-party packages, zero supply-chain risk.
+#
+# Dev/test dependency:
+pytest>=7.4.0
